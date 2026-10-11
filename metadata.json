@@ -1,0 +1,7 @@
+{
+  "name": "SHAPE Potential Africa (SPA) Platform",
+  "description": "Unified pan-African digital platform powering e-learning, startup pitch sandboxes, agri-market access, institutional capacity coaching, and M&E governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
