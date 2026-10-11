@@ -1,7 +1,7 @@
 import React from 'react';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
-import { ClientsStrip } from './components/ClientsStrip';
+
 import { CommunitySection } from './components/CommunitySection';
 import { FeatureSplitOne } from './components/FeatureSplitOne';
 import { MetricsSection } from './components/MetricsSection';
@@ -33,10 +33,7 @@ export default function App() {
           onRegisterClick={() => scrollToSection('overview')}
         />
 
-        {/* 3. Clients & Partners Strip */}
-        <ClientsStrip />
-
-        {/* 4. Community 3 Cards: Manage your entire ecosystem */}
+        {/* 3. Community 3 Cards: Manage your entire ecosystem */}
         <CommunitySection />
 
         {/* 5. Feature Split One: Dual-Facing Architecture */}
